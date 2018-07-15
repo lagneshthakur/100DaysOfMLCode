@@ -22,3 +22,13 @@ Eagerly waiting for tomorrow to continue with the lectures
 	* Intro to Pandas
 
 **Thoughts** : Continued with the lectures, taking it on my own pace to start with. Played in the [Playground](http://playground.tensorflow.org). Will continue with Linear Regression using TensorFlow tomorrow
+
+## Day 3 : July 14 , 2018
+ 
+**Today's Progress** : From Udemy's Python for Data Science course -
+* NLP using TF-IDF
+* Spam/Ham classification of messages
+
+**Thoughts** : Shifted gears a bit as I heard about TF-IDF from a friend. Just wanted to get some output using the code.
+
+**Link of Work** : [Commit](https://github.com/lagneshthakur/100DaysOfMLCode/commit/dea1dacb39a38448297c0f697f743487b5b9a2a9)
