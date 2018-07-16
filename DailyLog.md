@@ -32,3 +32,12 @@ Eagerly waiting for tomorrow to continue with the lectures
 **Thoughts** : Shifted gears a bit as I heard about TF-IDF from a friend. Just wanted to get some output using the code.
 
 **Link of Work** : [Commit](https://github.com/lagneshthakur/100DaysOfMLCode/commit/dea1dacb39a38448297c0f697f743487b5b9a2a9)
+
+## Day 3 : July 15 , 2018
+ 
+**Today's Progress** : From Google's crash course -
+* First steps with TF
+
+**Thoughts** : Back to Google's tutorials, didn't get all of it. Need to get better at understanding things.
+
+**Link of Work** : [Commit](https://github.com/lagneshthakur/100DaysOfMLCode/commit/5216777f1400f519891b33eabd49c47c863b91e5)
