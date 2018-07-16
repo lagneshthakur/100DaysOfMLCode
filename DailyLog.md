@@ -33,7 +33,7 @@ Eagerly waiting for tomorrow to continue with the lectures
 
 **Link of Work** : [Commit](https://github.com/lagneshthakur/100DaysOfMLCode/commit/dea1dacb39a38448297c0f697f743487b5b9a2a9)
 
-## Day 3 : July 15 , 2018
+## Day 4 : July 15 , 2018
  
 **Today's Progress** : From Google's crash course -
 * First steps with TF
