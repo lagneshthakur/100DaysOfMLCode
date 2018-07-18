@@ -41,3 +41,10 @@ Eagerly waiting for tomorrow to continue with the lectures
 **Thoughts** : Back to Google's tutorials, didn't get all of it. Need to get better at understanding things.
 
 **Link of Work** : [Commit](https://github.com/lagneshthakur/100DaysOfMLCode/commit/5216777f1400f519891b33eabd49c47c863b91e5)
+
+## Day 5 : July 17 , 2018
+
+**Today's Progress** : From Google's crash course -
+* First steps with TF
+
+**Thoughts** : Re-did the same tutorial and tweaked with the code to get better understanding of intermediate logic
